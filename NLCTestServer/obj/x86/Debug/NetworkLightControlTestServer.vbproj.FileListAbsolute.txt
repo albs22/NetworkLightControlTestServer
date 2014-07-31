@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.exe
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.xml
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.pdb
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\bin\Debug\NLCTestServer.exe
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\bin\Debug\NLCTestServer.pdb
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\bin\Debug\NLCTestServer.xml
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.ReceiveFrom.resources
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.Resources.resources
+C:\Users\Alex\Documents\Projects\NLC_Server\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NetworkLightControlTestServer.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.exe
+C:\Users\Alex\Documents\GitHub\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.xml
+C:\Users\Alex\Documents\GitHub\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.pdb

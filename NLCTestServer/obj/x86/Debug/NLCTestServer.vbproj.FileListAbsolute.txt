@@ -1,0 +1,14 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\bin\Debug\NLCTestServer.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\bin\Debug\NLCTestServer.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\bin\Debug\NLCTestServer.xml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.xml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NLCTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.xml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NetworkLightControl\NetworkLightControlTestServer\NLCTestServer\obj\x86\Debug\NLCTestServer.pdb
